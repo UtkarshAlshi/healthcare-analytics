@@ -37,7 +37,7 @@ The current healthcare analytics paradigm primarily relies on scheduled batch pr
    cd healthcare-analytics
    ```
 
-2. Configure Apache Flink, Apache Kafka, and Eclipse Ditto according to their respective installation guides.
+2. Configure Apache Flink, Apache Kafka, and Eclipse Ditto according to their respective installation guides. 
 
 3. Set up the data generator to simulate streaming healthcare data. Follow the instructions in the [data-generator](data-generator/README.md) directory.
 
